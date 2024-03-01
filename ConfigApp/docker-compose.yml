@@ -1,0 +1,13 @@
+version: '3.4'
+
+services:
+  Config.Api:
+    image: config-api
+    build:
+      context: .
+      dockerfile: ConfigApp/Dockerfile
+
+  Redis.db:
+    image: redis
+    ports:
+       - "6379:6379"

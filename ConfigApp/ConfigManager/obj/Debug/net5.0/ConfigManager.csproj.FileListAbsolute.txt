@@ -1,0 +1,12 @@
+C:\Users\his\source\repos\ConfigApp\ConfigManager\bin\Debug\net5.0\ConfigManager.deps.json
+C:\Users\his\source\repos\ConfigApp\ConfigManager\bin\Debug\net5.0\ConfigManager.dll
+C:\Users\his\source\repos\ConfigApp\ConfigManager\bin\Debug\net5.0\ConfigManager.pdb
+C:\Users\his\source\repos\ConfigApp\ConfigManager\obj\Debug\net5.0\ConfigManager.csproj.AssemblyReference.cache
+C:\Users\his\source\repos\ConfigApp\ConfigManager\obj\Debug\net5.0\ConfigManager.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\his\source\repos\ConfigApp\ConfigManager\obj\Debug\net5.0\ConfigManager.AssemblyInfoInputs.cache
+C:\Users\his\source\repos\ConfigApp\ConfigManager\obj\Debug\net5.0\ConfigManager.AssemblyInfo.cs
+C:\Users\his\source\repos\ConfigApp\ConfigManager\obj\Debug\net5.0\ConfigManager.csproj.CoreCompileInputs.cache
+C:\Users\his\source\repos\ConfigApp\ConfigManager\obj\Debug\net5.0\ConfigManager.dll
+C:\Users\his\source\repos\ConfigApp\ConfigManager\obj\Debug\net5.0\refint\ConfigManager.dll
+C:\Users\his\source\repos\ConfigApp\ConfigManager\obj\Debug\net5.0\ConfigManager.pdb
+C:\Users\his\source\repos\ConfigApp\ConfigManager\obj\Debug\net5.0\ref\ConfigManager.dll
